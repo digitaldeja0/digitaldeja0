@@ -33,7 +33,7 @@
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/dejacherese/"><img src="https://img.icons8.com/color/linkedin.png"/></a>
-<a href = "https://twitter.com/digitaldeja0"><img src="https://img.icons8.com/color/twitter.png"/></a>
+<a href = "https://twitter.com/DejaCherese"><img src="https://img.icons8.com/color/twitter.png"/></a>
 <a href = "https://www.youtube.com/channel/UC0QAyf2feqkYcwae7sHzH-Q"><img src="https://img.icons8.com/color/youtube-play.png"/></a>
 </p>
 
