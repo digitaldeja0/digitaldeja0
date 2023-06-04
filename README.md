@@ -1,5 +1,5 @@
 
-![Banner Image](https://raw.githubusercontent.com/digitaldeja0/digitaldeja0/main/github.png)
+![Banner Image](https://raw.githubusercontent.com/digitaldeja0/digitaldeja0/main/github-banner.png)
 
 <h1 align="center"> Hey, I'am Deja 👋🏽 </h1>
 
