@@ -7,8 +7,6 @@
 
 <p align="center">I am currently working on: The Dance Skill libray App 🩰 & The Freelace Calculator App </p>
 
-<div align="center"> ![Deja GitHub stats](https://github-readme-stats.vercel.app/api?username=digitaldeja0&show_icons=true) </div>
-
 
 ## My Projects:
 <p align="left">
@@ -16,6 +14,9 @@
 <a href = "https://www.behance.net/dejacherese"><img src="https://user-images.githubusercontent.com/90660363/164602394-02d9d319-6ef8-4e81-80c1-9909c285edbd.png"/></a>
 
 </p>
+
+## My Stats:
+ ![Deja GitHub stats](https://github-readme-stats.vercel.app/api?username=digitaldeja0&show_icons=true)
 
 ## My Gadgets:
 
@@ -39,6 +40,8 @@
 <a href = "https://twitter.com/DejaCherese"><img src="https://img.icons8.com/color/twitter.png"/></a>
 <a href = "https://youtube.com/@lowpolyprincess"><img src="https://img.icons8.com/color/youtube-play.png"/></a>
 </p>
+
+
 
 
 
