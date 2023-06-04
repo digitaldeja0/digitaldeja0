@@ -7,7 +7,8 @@
 
 <p align="center">I am currently working on: The Dance Skill libray App 🩰 & The Freelace Calculator App </p>
 
-![Deja GitHub stats](https://github-readme-stats.vercel.app/api?username=digitaldeja0&show_icons=true)
+<div align="center"> ![Deja GitHub stats](https://github-readme-stats.vercel.app/api?username=digitaldeja0&show_icons=true) </div>
+
 
 ## My Projects:
 <p align="left">
