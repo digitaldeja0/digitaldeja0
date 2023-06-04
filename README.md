@@ -1,4 +1,4 @@
-<h1 align="center"> I'am Deja ✨ </h1>
+<h1 align="center"> Hey, I'am Deja 👋🏽 </h1>
 
 
 <p align="center"><a><img src="https://user-images.githubusercontent.com/90660363/164593321-8e2ebb68-4344-452f-8465-ffca8255b359.png" alt="digitaldeja0"></a></p>
@@ -6,6 +6,8 @@
 
 
 <p align="center">I am currently working on: The Dance Skill libray App 🩰 & The Freelace Calculator App </p>
+
+![Deja GitHub stats](https://github-readme-stats.vercel.app/api?username=digitaldeja0&show_icons=true)
 
 ## My Projects:
 <p align="left">
