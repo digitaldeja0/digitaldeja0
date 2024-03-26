@@ -10,7 +10,7 @@
 ## My Projects:
 <p align="left">
 
-<a href = "https://portfolio.dejacherese.com/"><img src="https://user-images.githubusercontent.com/90660363/164602394-02d9d319-6ef8-4e81-80c1-9909c285edbd.png"/></a>
+<a href = "https://dejacherese.com"><img src="https://user-images.githubusercontent.com/90660363/164602394-02d9d319-6ef8-4e81-80c1-9909c285edbd.png"/></a>
 
 </p>
 
